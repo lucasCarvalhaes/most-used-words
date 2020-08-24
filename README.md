@@ -1,5 +1,7 @@
 # most-used-words
 
+<img src="./Screenshot from 2020-08-24 13-19-27.png">
+
 ## Project setup
 ```
 npm install
